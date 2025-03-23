@@ -53,4 +53,3 @@ This project is a Streamlit application that generates personalized product and 
 To run the Streamlit application, execute the following command:
 ```sh
 streamlit run hack_latest.py
-# Hackathon_ProductRecommendation

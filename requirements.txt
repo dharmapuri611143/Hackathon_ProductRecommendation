@@ -27,4 +27,10 @@ huggingface_hub
 accelerate
 sentencepiece
 langchain_community
+streamlit-audio-recorder
+torch
+PyPDF2
+python-docx
+streamlit-webrtc
+whisper
 
